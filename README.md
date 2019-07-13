@@ -22,6 +22,11 @@ This repository is aimed at collecting useful documentations for the ML-study jo
 
 ## Repositories
 1. <a href="https://paperswithcode.com/sota" target="_blank">State-of-the-art algos</a>, with papers and code
+2. <a href="https://github.com/GokuMohandas/practicalAI" target="_blank">Practical AI</a> GitHub repository, with many useful Google Collaboratiry Notebooks ready to be explored and used, with topics ranging from:
+
+  i. Basic concepts of Data Science and Statistics
+  ii. 
+  
 
 
 <a href="" target="_blank">book</a>
