@@ -25,7 +25,8 @@ This repository is aimed at collecting useful documentations for the ML-study jo
 2. <a href="https://github.com/GokuMohandas/practicalAI" target="_blank">Practical AI</a> GitHub repository, with many useful Google Collaboratiry Notebooks ready to be explored and used, with topics ranging from:
 
   i. Basic concepts of Data Science and Statistics
-  ii. 
+  ii. Different NNs architectures and algorithms
+  iii. Applications to '_real world_' case studies
   
 
 
