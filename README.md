@@ -6,8 +6,16 @@
 This repository is aimed at collecting useful documentations for the ML-study journey.
 
 ## Sudy Material
-### General ML stuff
+### Intro to Machine Learning and Neural Networks in general
 1. Introductory <a href="http://themlbook.com/wiki/doku.php" target="_blank">book</a> from <a href="https://www.linkedin.com/in/andriyburkov/" target="_blank">Andriy Burkov</a>
+2. Great and intuitive <a href="http://neuralnetworksanddeeplearning.com/chap1.html" target="_blank">intro</a> to basic (Feed Forward) Neural Networks
+3. Stanford <a href="http://cs231n.github.io/" target="_blank">lessons</a> regarding the basics of (Feed Forward) Neural Networks: cfr. _Module 1: Neural Networks_
+
+### Recurrent Neural Networks (_RNNs_)
+1. Must-read <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">post</a> regarding LSTMs
 
 ## Repositories
 1. <a href="https://paperswithcode.com/sota" target="_blank">State-of-the-art algos</a>, with papers and code
+
+
+<a href="" target="_blank">book</a>
