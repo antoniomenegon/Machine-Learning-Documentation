@@ -1,7 +1,7 @@
 <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwibsqTk3KzjAhUKKewKHR-lBhQQjRx6BAgBEAU&url=https%3A%2F%2Findia.googleblog.com%2F2018%2F07%2Fthe-machine-learning-crash-course-mlcc.html&psig=AOvVaw0LwGMju4l1AVQ7MgwRGJz_&ust=1562929619636398">
 
 
-# Machine-Learning-Documentation
+# Machine Learning Documentation
 
 This repository is aimed at collecting useful documentations for the ML-study journey.
 
