@@ -12,7 +12,13 @@ This repository is aimed at collecting useful documentations for the ML-study jo
 3. Stanford <a href="http://cs231n.github.io/" target="_blank">lessons</a> regarding the basics of (Feed Forward) Neural Networks: cfr. _Module 1: Neural Networks_
 
 ### Recurrent Neural Networks (_RNNs_)
-1. Must-read <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">post</a> regarding LSTMs
+1. Great <a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/" target="_blank">intro</a> to __RNNs__ in general
+2. Must-read <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">post</a> regarding __LSTMs__
+3. Stanford <a href="https://www.youtube.com/watch?v=6niqTuYFZLQ" target="_blank">video lesson</a>
+
+### Convolutional Neural Networks (CNNs)
+1. Introductoory <a href="https://skymind.ai/wiki/convolutional-network" target="_blank">post</a> to CNNs
+2. Stanford <a href="http://cs231n.github.io/" target="_blank">lessons</a> explaining CNNs 
 
 ## Repositories
 1. <a href="https://paperswithcode.com/sota" target="_blank">State-of-the-art algos</a>, with papers and code
