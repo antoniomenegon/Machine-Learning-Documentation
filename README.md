@@ -27,7 +27,11 @@ This repository is aimed at collecting useful documentations for the ML-study jo
 ** Basic concepts of Data Science and Statistics
 ** Different NNs architectures and algorithms
 ** Applications to '_real world_' case studies
+
+## Libraries
+1. <a href="https://huggingface.co/pytorch-transformers/" target="_blank"> PyTorch library</a> of state-of-the-art pre-trained models for Natural Language Processing (NLP)
+
   
 
 
-<a href="" target="_blank">book</a>
+
