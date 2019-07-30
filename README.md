@@ -32,5 +32,5 @@ This repository is aimed at collecting useful documentations for the ML-study jo
 1. <a href="https://huggingface.co/pytorch-transformers/" target="_blank">PyTorch library</a> of state-of-the-art pre-trained models for Natural Language Processing (NLP)
 
 ## Papers
-1. <a href="https://arxiv.org/abs/1711.09846" target="_blank">Facebook DeepMind on Hyperparameter search</a>
+1. <a href="https://arxiv.org/abs/1711.09846" target="_blank">DeepMind on Hyperparameter search</a>
 2. <a href="https://arxiv.org/abs/1907.05686" target="_blank">Facebook AI on Quantization of Neural Networks</a> for compression
