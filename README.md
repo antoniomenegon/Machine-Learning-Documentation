@@ -18,7 +18,8 @@ This repository is aimed at collecting useful documentations for the ML-study jo
 
 ### Convolutional Neural Networks (_CNNs_)
 1. Introductoory <a href="https://skymind.ai/wiki/convolutional-network" target="_blank">post</a> to CNNs
-2. Stanford <a href="http://cs231n.github.io/" target="_blank">lessons</a> explaining CNNs 
+2. Stanford <a href="http://cs231n.github.io/" target="_blank">lessons</a> explaining CNNs
+3. Post that clarifies the <a href="https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n" target="_blank">dimensions involved in 1D, 2D and 3D convolutions</a>.
 
 ## Repositories
 1. <a href="https://paperswithcode.com/sota" target="_blank">State-of-the-art algos</a>, with papers and code
