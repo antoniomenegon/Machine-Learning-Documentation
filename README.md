@@ -32,6 +32,9 @@ This repository is aimed at collecting useful documentations for the ML-study jo
 ### TF helpers
 1. <a href="https://medium.com/tensorflow" target="_blank">Medium blog</a> on TF with helpful articles.
 
+## Miscellaneus
+1. <a href="https://github.com/google/styleguide/blob/gh-pages/pyguide.md" target="_blank">Google Python Style Guide</a>
+
 
 ## Papers
 1. <a href="https://arxiv.org/abs/1711.09846" target="_blank">DeepMind on Hyperparameter search</a>
