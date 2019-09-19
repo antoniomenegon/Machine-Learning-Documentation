@@ -3,7 +3,7 @@
 This repository is aimed at collecting useful documentations for the ML-study journey.
 
 ## Table of contents
-..* [Study Material](https://github.com/antoniomenegon/Machine-Learning-Documentation/edit/master/README.md##Study Material)
+* [Study Material](https://github.com/antoniomenegon/Machine-Learning-Documentation/edit/master/README.md##Study-Material)
 
 ## Sudy Material
 ### Intro to Machine Learning and Neural Networks in general
