@@ -2,6 +2,9 @@
 
 This repository is aimed at collecting useful documentations for the ML-study journey.
 
+## Table of contents
+..* [Study Material](https://github.com/antoniomenegon/Machine-Learning-Documentation/edit/master/README.md##Study Material)
+
 ## Sudy Material
 ### Intro to Machine Learning and Neural Networks in general
 1. Introductory <a href="http://themlbook.com/wiki/doku.php" target="_blank">book</a> from <a href="https://www.linkedin.com/in/andriyburkov/" target="_blank">Andriy Burkov</a>
