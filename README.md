@@ -1,7 +1,5 @@
 ![Repo List](images/ML_1.jpg)
 
-# Machine Learning Documentation
-
 This repository is aimed at collecting useful documentations for the ML-study journey.
 
 [Go to](https://github.com/antoniomenegon/Machine-Learning-Documentation/wiki) the wiki section.
