@@ -1,4 +1,6 @@
-![alt text](https://github.com/antoniomenegon/Machine-Learning-Documentation/tree/master/images/ML_1.jpg)
+<p align="center">
+  <img src="https://github.com/antoniomenegon/Machine-Learning-Documentation/tree/master/images/ML_1.jpg" width="350" title="hover text">
+</p>
 
 # Machine Learning Documentation
 
