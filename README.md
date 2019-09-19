@@ -2,6 +2,8 @@
 
 This repository is aimed at collecting useful documentations for the ML-study journey.
 
+[Go to](https://github.com/antoniomenegon/Machine-Learning-Documentation/wiki) the wiki section.
+
 ## Table of contents
 * [Study Material](https://github.com/antoniomenegon/Machine-Learning-Documentation/blob/master/README.md##Study-Material)
 * [Libraries](https://github.com/antoniomenegon/Machine-Learning-Documentation/blob/master/README.md##Libraries)
