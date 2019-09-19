@@ -1,4 +1,4 @@
-![alt text](https://github.com/antoniomenegon/Machine-Learning-Documentation/images/ML_1.jpg)
+![alt text](https://github.com/antoniomenegon/Machine-Learning-Documentation/tree/master/images/ML_1.jpg)
 
 # Machine Learning Documentation
 
